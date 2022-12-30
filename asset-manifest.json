@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Desi-Burger-wala/static/css/main.7008d0a7.css",
+    "main.js": "/Desi-Burger-wala/static/js/main.f24e5f3a.js",
+    "static/media/Founder.JPG": "/Desi-Burger-wala/static/media/Founder.5981754b58ef693a55c2.JPG",
+    "static/media/burger3.png": "/Desi-Burger-wala/static/media/burger3.11eccfcb1a45834ac9d7.png",
+    "static/media/burger2.png": "/Desi-Burger-wala/static/media/burger2.3a02b94cd44d825ebb94.png",
+    "static/media/bg.png": "/Desi-Burger-wala/static/media/bg.e25df216162c9b2fc988.png",
+    "static/media/burger1.png": "/Desi-Burger-wala/static/media/burger1.6cbf3dc63aff1ced8e98.png",
+    "static/media/bg.svg": "/Desi-Burger-wala/static/media/bg.e53655d9837b2c7792a3.svg",
+    "index.html": "/Desi-Burger-wala/index.html",
+    "main.7008d0a7.css.map": "/Desi-Burger-wala/static/css/main.7008d0a7.css.map",
+    "main.f24e5f3a.js.map": "/Desi-Burger-wala/static/js/main.f24e5f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7008d0a7.css",
+    "static/js/main.f24e5f3a.js"
+  ]
+}
